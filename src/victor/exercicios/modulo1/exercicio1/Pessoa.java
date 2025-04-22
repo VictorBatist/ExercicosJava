@@ -1,4 +1,4 @@
-package victor.exercicios.modulo1.ex1;
+package victor.exercicios.modulo1.exercicio1;
 
 public class Pessoa {
     public static void exibirmensagem(){
