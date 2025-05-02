@@ -3,7 +3,7 @@
 //Calcule o valor total multiplicando o preço do produto
 //pela quantidade e apresente o resultado em uma mensagem.
 
-package victor.exercicios.modulo0.exercicios1;
+package victor.exercicios.modulo0.exercicio1;
 
 public class Produto {
     public static void main(String[] args) {

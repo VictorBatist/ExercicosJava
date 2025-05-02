@@ -5,7 +5,7 @@ atribua um valor percentual de desconto ao produto (por exemplo, 10 para 10%).
 Calcule o valor do desconto em reais, aplique-o ao preço original e
 imprima o novo preço com desconto.*/
 
-package victor.exercicios.modulo0.exercicios1;
+package victor.exercicios.modulo0.exercicio1;
 
 public class CalculadoraDeDescontos {
     public static void main(String[] args) {
