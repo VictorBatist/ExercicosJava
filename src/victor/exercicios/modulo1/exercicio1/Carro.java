@@ -1,4 +1,4 @@
-package victor.exercicios.modulo1.exercicio4;
+package victor.exercicios.modulo1.exercicio1;
 
 public class Carro {
     String modelo;

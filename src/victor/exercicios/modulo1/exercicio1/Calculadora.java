@@ -1,4 +1,4 @@
-package victor.exercicios.modulo1.exercicio2;
+package victor.exercicios.modulo1.exercicio1;
 
 import java.util.Scanner;
 

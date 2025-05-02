@@ -1,4 +1,6 @@
-package victor.exercicios.modulo0;
+//Crie um programa que realize a média de duas notas decimais e exiba o resultado.
+
+package victor.exercicios.modulo0.exercicios1;
 
 public class Media {
     double nota1;

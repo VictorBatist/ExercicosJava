@@ -1,4 +1,4 @@
-package victor.exercicios.modulo1.exercicio5;
+package victor.exercicios.modulo1.exercicio1;
 
 public class Aluno {
     String nome;
