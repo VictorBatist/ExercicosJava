@@ -1,3 +1,7 @@
+/*Crie uma classe Aluno com atributos nome, idade,
+e um méthodo para exibir informações. Crie uma instância da classe Aluno, atribua
+valores aos seus atributos e utilize o méthodo para exibir as informações.*/
+
 package victor.exercicios.modulo1.exercicio1;
 
 public class Aluno {

@@ -1,3 +1,7 @@
+/*Crie uma classe Calculadora com um
+méthodo que recebe um número como parâmetro
+e retorna o dobro desse número.*/
+
 package victor.exercicios.modulo1.exercicio1;
 
 import java.util.Scanner;
